@@ -1,0 +1,7 @@
+package com.org.postdemo;
+
+public class PostResponse {
+int id;
+String message;
+String ref;
+}

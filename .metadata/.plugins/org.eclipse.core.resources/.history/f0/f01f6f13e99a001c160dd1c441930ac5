@@ -1,0 +1,5 @@
+package com.org.postdemo;
+
+public class PostRequest {
+
+}
